@@ -21,7 +21,7 @@
 - [10分後にうんこが出ます: 排泄予知デバイス開発物語][9]
 
 # 会社
-- [うんこ株式会社]　https://www.youtube.com/watch?v=jSWZ2jolQP4&app=desktop
+- [うんこ株式会社][10]
 
 # Twitter
 - https://twitter.com/tomo_8095/status/1096403535132934149?s=20
